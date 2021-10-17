@@ -1,4 +1,4 @@
-# VNux Maintain Document - Chương 0
+# Tài liệu hướng dẫn maintain VNux - Chương 0
 ## Tài liệu này được viết bởi ai?
 - th1nhhdk và nguyenntdev
 ## Vì sao lại có tài liệu này?
